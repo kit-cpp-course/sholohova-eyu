@@ -14,8 +14,14 @@ int main(int argc, char *argv[])
 {
 	QApplication a(argc, argv);
 	QtMediaCatalog w;
+	//?
+	//Catalog* catalog;
+	//QObject::connect(&w, SIGNAL(pathEntered(QString)), catalog, SLOT(FillCatalog(QString)));
 
 	w.show();
+
+	//Connecting signals and slots
+
 
 	return a.exec();
 }
