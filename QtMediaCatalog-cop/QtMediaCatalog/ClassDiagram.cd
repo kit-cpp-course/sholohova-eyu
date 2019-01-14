@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="EnterPathDialog">
+    <Position X="10.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ACgAAAAAAAAAAQCAAAAAAAAACAAADAAAAAAAAAAEAAA=</HashCode>
+      <FileName>EnterPathDialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileDataModel">
+    <Position X="3" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAgAhASAABAAIAAAIAAAAAAAABCEAAAAARAAAAAAQ=</HashCode>
+      <FileName>FileDataModel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MediaRecord">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAEAAAAAAAEAAAAAABJRABA=</HashCode>
+      <FileName>MediaRecord.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProxyModel">
+    <Position X="5.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAIAAAAAAAAAAAAAAAAAAAIFAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProxyModel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QtMediaCatalog">
+    <Position X="8" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QAgAAIAAACgAEACBAAEBAAQAAIgAkAAAAAAAAQQIsAA=</HashCode>
+      <FileName>QtMediaCatalog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Catalog">
+    <Position X="0.5" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AUAACABAAIAgAACAAAAAAAABAAAAAAIAWAAAgAAAAAA=</HashCode>
+      <FileName>Catalog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckBoxDelegate">
+    <Position X="5.25" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAABAAAAAAAAAIAAAAAAAAAEAAAAAAAAAQAQAA=</HashCode>
+      <FileName>CheckBoxDelegate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
